@@ -504,6 +504,122 @@ def export_json_data(conn):
 
     return json_data
 
+def analyze_data_statistics(conn):
+    """
+    Performs statistical analysis on the collected data:
+    1. Average stock price for each CDC transmission level
+    2. Temperature correlation with transmission levels
+    3. Market volatility during different transmission levels
+    4. Monthly averages and trends
+    """
+    cursor = conn.cursor()
+    
+    # Get data with joins
+    cursor.execute('''
+        SELECT 
+            c.cdc_transmission_level,
+            s.close_price,
+            s.volume,
+            w.avg_temperature,
+            d.date
+        FROM covid_transmission c
+        JOIN dim_date d ON c.date_id = d.id
+        LEFT JOIN stock_market s ON c.date_id = s.date_id
+        LEFT JOIN weather_data w ON c.date_id = w.date_id
+        WHERE s.close_price IS NOT NULL
+        ORDER BY d.date
+    ''')
+    
+    results = cursor.fetchall()
+    
+    # Convert to lists for easier processing
+    levels = [r[0] for r in results]
+    prices = [r[1] for r in results]
+    volumes = [r[2] for r in results]
+    temps = [r[3] for r in results]
+    dates = [r[4] for r in results]
+    
+    # 1. Average stock price by transmission level
+    level_prices = {}
+    for level, price in zip(levels, prices):
+        if level not in level_prices:
+            level_prices[level] = []
+        level_prices[level].append(price)
+    
+    avg_prices = {level: sum(prices)/len(prices) 
+                 for level, prices in level_prices.items()}
+    
+    # 2. Temperature correlation
+    valid_pairs = [(t, l) for t, l in zip(temps, levels) if t is not None]
+    if valid_pairs:
+        temps_clean, levels_clean = zip(*valid_pairs)
+        temp_correlation = np.corrcoef(temps_clean, levels_clean)[0, 1]
+    else:
+        temp_correlation = None
+    
+    # 3. Market volatility (using standard deviation of daily returns)
+    daily_returns = [(b - a) / a for a, b in zip(prices[:-1], prices[1:])]
+    volatility = np.std(daily_returns) if daily_returns else None
+    
+    # 4. Monthly statistics
+    monthly_data = {}
+    for date, price, level, temp in zip(dates, prices, levels, temps):
+        month = date[:7]  # Get YYYY-MM
+        if month not in monthly_data:
+            monthly_data[month] = {'prices': [], 'levels': [], 'temps': []}
+        monthly_data[month]['prices'].append(price)
+        monthly_data[month]['levels'].append(level)
+        if temp is not None:
+            monthly_data[month]['temps'].append(temp)
+    
+    monthly_averages = {
+        month: {
+            'avg_price': sum(data['prices']) / len(data['prices']),
+            'avg_level': sum(data['levels']) / len(data['levels']),
+            'avg_temp': sum(data['temps']) / len(data['temps']) if data['temps'] else None
+        }
+        for month, data in monthly_data.items()
+    }
+    
+    # Print results
+    print("\nData Analysis Results:")
+    print("\n1. Average Stock Prices by CDC Transmission Level:")
+    for level, avg_price in avg_prices.items():
+        print(f"Level {level}: ${avg_price:.2f}")
+    
+    print("\n2. Temperature Correlation with Transmission Levels:")
+    if temp_correlation is not None:
+        print(f"Correlation coefficient: {temp_correlation:.3f}")
+        if temp_correlation > 0.5:
+            print("Strong positive correlation")
+        elif temp_correlation < -0.5:
+            print("Strong negative correlation")
+        else:
+            print("Weak or moderate correlation")
+    
+    print("\n3. Market Volatility:")
+    if volatility is not None:
+        print(f"Daily returns standard deviation: {volatility:.3%}")
+        if volatility > 0.02:
+            print("High volatility period")
+        else:
+            print("Normal volatility period")
+    
+    print("\n4. Monthly Trends:")
+    for month, averages in monthly_averages.items():
+        print(f"\n{month}:")
+        print(f"  Average Stock Price: ${averages['avg_price']:.2f}")
+        print(f"  Average CDC Level: {averages['avg_level']:.1f}")
+        if averages['avg_temp'] is not None:
+            print(f"  Average Temperature: {averages['avg_temp']:.1f}°C")
+    
+    return {
+        'level_prices': avg_prices,
+        'temp_correlation': temp_correlation,
+        'volatility': volatility,
+        'monthly_averages': monthly_averages
+    }
+
 def main():
     """
     Main execution of the script:
@@ -526,8 +642,13 @@ def main():
         print(f"Processed {weather_records} weather records")
 
         # Verify current counts
-        verify_data_counts(conn)
-
+        covid_count, stock_count, weather_count = verify_data_counts(conn)
+        
+        # If we have enough data, perform analysis
+        if covid_count >= 25 and stock_count >= 25 and weather_count >= 25:
+            print("\nPerforming statistical analysis...")
+            statistics = analyze_data_statistics(conn)
+        
         # Export to JSON
         json_data = export_json_data(conn)
         print("\nData has been exported to 'analysis_output.json'.")
