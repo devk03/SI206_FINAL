@@ -376,6 +376,29 @@ def create_visualizations(json_data):
     temperatures = [d["avg_temperature"] for d in filtered_data]
 
     # 1. Combined Time Series Plot (unchanged)
+    plt.figure(figsize=(12, 6))
+    fig, ax1 = plt.subplots()
+
+    ax1.set_xlabel("Date")
+    ax1.set_ylabel("CDC Transmission Level", color="tab:red")
+    ax1.plot(dates, transmission_levels, color="tab:red", label="CDC Level")
+    ax1.tick_params(axis="y", labelcolor="tab:red")
+
+    ax2 = ax1.twinx()
+    ax2.set_ylabel("Stock Price (USD)", color="tab:blue")
+    ax2.plot(dates, stock_prices, color="tab:blue", label="Stock Price")
+    ax2.tick_params(axis="y", labelcolor="tab:blue")
+
+    ax3 = ax1.twinx()
+    ax3.spines["right"].set_position(("axes", 1.2))
+    ax3.set_ylabel("Temperature (°C)", color="tab:green")
+    ax3.plot(dates, temperatures, color="tab:green", linestyle="--", label="Temperature")
+    ax3.tick_params(axis="y", labelcolor="tab:green")
+
+    fig.suptitle("Combined Metrics Over Time")
+    fig.tight_layout()
+    plt.savefig(os.path.join(viz_dir, "visualization1_combined_metrics.png"))
+    plt.close()
 
     # 2. Bubble Plot
     plt.figure(figsize=(10, 6))
@@ -450,10 +473,62 @@ def create_visualizations(json_data):
     plt.savefig(os.path.join(viz_dir, "visualization3_enhanced_correlation.png"))
     plt.close()
 
+    # EXTRA CREDIT #1: Bubble Plot Comparing CDC Levels and Stock Price, with Bubble Size = Temperature Magnitude
+    plt.figure(figsize=(10, 6))
+    max_temp = max(temperatures)
+    if max_temp == 0:
+        bubble_sizes = [20 for _ in temperatures]
+    else:
+        bubble_sizes = [100 * (temp / max_temp) for temp in temperatures]
+
+    scatter = plt.scatter(
+        transmission_levels,
+        stock_prices,
+        s=bubble_sizes,
+        alpha=0.6,
+        c=temperatures,
+        cmap="viridis",
+    )
+
+    plt.xlabel("CDC Transmission Level")
+    plt.ylabel(f"{STOCK_SYMBOL} Price (USD)")
+    plt.title("CDC Level vs Stock Price\n(Bubble size = Temperature Magnitude)")
+
+    cbar = plt.colorbar(scatter)
+    cbar.set_label("Temperature")
+
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(os.path.join(viz_dir, "visualization4_extra_bubble_cdc_temp.png"))
+    plt.close()
+
+    # EXTRA CREDIT #2: 3D Scatter Plot
+    from mpl_toolkits.mplot3d import Axes3D
+    fig = plt.figure(figsize=(12, 8))
+    ax = fig.add_subplot(111, projection='3d')
+    scatter = ax.scatter(
+        temperatures,
+        stock_prices,
+        transmission_levels,
+        c=transmission_levels,
+        cmap="coolwarm",
+        alpha=0.7,
+    )
+    ax.set_xlabel("Temperature (°C)")
+    ax.set_ylabel("Stock Price (USD)")
+    ax.set_zlabel("CDC Level")
+    ax.set_title("3D Scatter: Temperature, Stock Price, and CDC Level")
+    fig.colorbar(scatter, ax=ax, label="CDC Level")
+    plt.savefig(os.path.join(viz_dir, "visualization5_extra_3dscatter.png"))
+    plt.close()
+
     print("\nVisualizations have been saved in the 'visualizations' directory:")
     print("1. visualization1_combined_metrics.png")
     print("2. visualization2_bubble_plot.png")
     print("3. visualization3_enhanced_correlation.png")
+    print("4. visualization4_extra_heatmap.png")
+    print("5. visualization5_extra_3dscatter.png")
+
 
 def export_json_data(conn):
     """
