@@ -1,4 +1,4 @@
-j[
+[
   {
     "date": "2020-01-25",
     "state": "CA",
@@ -2498,5 +2498,3505 @@ j[
     "avg_temperature": 15.857415199279785,
     "max_temperature": 19.82200050354004,
     "min_temperature": 14.67199993133545
+  },
+  {
+    "date": "2020-10-01",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 337.04,
+    "stock_volume": 88698745,
+    "avg_temperature": 20.82200050354004,
+    "max_temperature": 30.672000885009766,
+    "min_temperature": 15.871999740600586
+  },
+  {
+    "date": "2020-10-02",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 333.84,
+    "stock_volume": 89431112,
+    "avg_temperature": 18.280332565307617,
+    "max_temperature": 24.222000122070312,
+    "min_temperature": 14.472000122070312
+  },
+  {
+    "date": "2020-10-03",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 17.609500885009766,
+    "max_temperature": 23.87200164794922,
+    "min_temperature": 13.371999740600586
+  },
+  {
+    "date": "2020-10-04",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 17.211584091186523,
+    "max_temperature": 21.37200164794922,
+    "min_temperature": 14.472000122070312
+  },
+  {
+    "date": "2020-10-05",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 339.76,
+    "stock_volume": 45713108,
+    "avg_temperature": 15.64283275604248,
+    "max_temperature": 19.022001266479492,
+    "min_temperature": 12.92199993133545
+  },
+  {
+    "date": "2020-10-06",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 334.93,
+    "stock_volume": 90128883,
+    "avg_temperature": 13.517830848693848,
+    "max_temperature": 14.722000122070312,
+    "min_temperature": 12.371999740600586
+  },
+  {
+    "date": "2020-10-07",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 340.76,
+    "stock_volume": 56999597,
+    "avg_temperature": 14.159497261047363,
+    "max_temperature": 15.321999549865723,
+    "min_temperature": 12.972000122070312
+  },
+  {
+    "date": "2020-10-08",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 343.78,
+    "stock_volume": 45242476,
+    "avg_temperature": 15.07824993133545,
+    "max_temperature": 16.722000122070312,
+    "min_temperature": 13.772000312805176
+  },
+  {
+    "date": "2020-10-09",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 346.85,
+    "stock_volume": 59528606,
+    "avg_temperature": 15.967833518981934,
+    "max_temperature": 17.57200050354004,
+    "min_temperature": 15.17199993133545
+  },
+  {
+    "date": "2020-10-10",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.50116729736328,
+    "max_temperature": 19.272001266479492,
+    "min_temperature": 14.772000312805176
+  },
+  {
+    "date": "2020-10-11",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.611583709716797,
+    "max_temperature": 20.422000885009766,
+    "min_temperature": 13.022000312805176
+  },
+  {
+    "date": "2020-10-12",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 352.43,
+    "stock_volume": 80388533,
+    "avg_temperature": 17.976165771484375,
+    "max_temperature": 22.672000885009766,
+    "min_temperature": 14.371999740600586
+  },
+  {
+    "date": "2020-10-13",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 350.13,
+    "stock_volume": 73255513,
+    "avg_temperature": 17.81783103942871,
+    "max_temperature": 22.422000885009766,
+    "min_temperature": 14.571999549865723
+  },
+  {
+    "date": "2020-10-14",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 347.93,
+    "stock_volume": 57958749,
+    "avg_temperature": 19.163667678833008,
+    "max_temperature": 23.222000122070312,
+    "min_temperature": 16.172000885009766
+  },
+  {
+    "date": "2020-10-15",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 347.5,
+    "stock_volume": 60357659,
+    "avg_temperature": 22.5761661529541,
+    "max_temperature": 32.87200164794922,
+    "min_temperature": 15.42199993133545
+  },
+  {
+    "date": "2020-10-16",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 347.29,
+    "stock_volume": 89501868,
+    "avg_temperature": 25.13033103942871,
+    "max_temperature": 33.672000885009766,
+    "min_temperature": 19.82200050354004
+  },
+  {
+    "date": "2020-10-17",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 22.382415771484375,
+    "max_temperature": 31.32200050354004,
+    "min_temperature": 15.17199993133545
+  },
+  {
+    "date": "2020-10-18",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 17.901166915893555,
+    "max_temperature": 24.022001266479492,
+    "min_temperature": 13.621999740600586
+  },
+  {
+    "date": "2020-10-19",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 342.01,
+    "stock_volume": 68425614,
+    "avg_temperature": 14.780333518981934,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 13.121999740600586
+  },
+  {
+    "date": "2020-10-20",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 343.38,
+    "stock_volume": 60051880,
+    "avg_temperature": 15.092833518981934,
+    "max_temperature": 18.172000885009766,
+    "min_temperature": 12.022000312805176
+  },
+  {
+    "date": "2020-10-21",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 342.73,
+    "stock_volume": 63574979,
+    "avg_temperature": 15.936580657958984,
+    "max_temperature": 19.922000885009766,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2020-10-22",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 344.61,
+    "stock_volume": 55399292,
+    "avg_temperature": 16.061582565307617,
+    "max_temperature": 20.32200050354004,
+    "min_temperature": 13.472000122070312
+  },
+  {
+    "date": "2020-10-23",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 345.78,
+    "stock_volume": 49143931,
+    "avg_temperature": 14.286582946777344,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 13.17199993133545
+  },
+  {
+    "date": "2020-10-24",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.226165771484375,
+    "max_temperature": 16.972000122070312,
+    "min_temperature": 13.871999740600586
+  },
+  {
+    "date": "2020-10-25",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.813666343688965,
+    "max_temperature": 20.32200050354004,
+    "min_temperature": 12.972000122070312
+  },
+  {
+    "date": "2020-10-26",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 339.39,
+    "stock_volume": 91473002,
+    "avg_temperature": 16.905332565307617,
+    "max_temperature": 22.87200164794922,
+    "min_temperature": 13.522000312805176
+  },
+  {
+    "date": "2020-10-27",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 338.22,
+    "stock_volume": 65994108,
+    "avg_temperature": 16.361583709716797,
+    "max_temperature": 23.12200164794922,
+    "min_temperature": 11.821999549865723
+  },
+  {
+    "date": "2020-10-28",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 326.66,
+    "stock_volume": 127094307,
+    "avg_temperature": 16.71783447265625,
+    "max_temperature": 22.422000885009766,
+    "min_temperature": 11.121999740600586
+  },
+  {
+    "date": "2020-10-29",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 329.98,
+    "stock_volume": 90597689,
+    "avg_temperature": 16.490751266479492,
+    "max_temperature": 22.62200164794922,
+    "min_temperature": 12.522000312805176
+  },
+  {
+    "date": "2020-10-30",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 326.54,
+    "stock_volume": 120448685,
+    "avg_temperature": 13.878249168395996,
+    "max_temperature": 17.32200050354004,
+    "min_temperature": 9.92199993133545
+  },
+  {
+    "date": "2020-10-31",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.763667106628418,
+    "max_temperature": 23.57200050354004,
+    "min_temperature": 10.522000312805176
+  },
+  {
+    "date": "2020-11-01",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.69908332824707,
+    "max_temperature": 26.772001266479492,
+    "min_temperature": 10.621999740600586
+  },
+  {
+    "date": "2020-11-02",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 330.2,
+    "stock_volume": 86068299,
+    "avg_temperature": 17.026165008544922,
+    "max_temperature": 23.722000122070312,
+    "min_temperature": 11.371999740600586
+  },
+  {
+    "date": "2020-11-03",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 336.03,
+    "stock_volume": 93294192,
+    "avg_temperature": 14.282414436340332,
+    "max_temperature": 19.172000885009766,
+    "min_temperature": 12.321999549865723
+  },
+  {
+    "date": "2020-11-04",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 343.54,
+    "stock_volume": 126959700,
+    "avg_temperature": 14.755331993103027,
+    "max_temperature": 20.07200050354004,
+    "min_temperature": 11.972000122070312
+  },
+  {
+    "date": "2020-11-05",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 350.24,
+    "stock_volume": 82039749,
+    "avg_temperature": 15.603251457214355,
+    "max_temperature": 19.672000885009766,
+    "min_temperature": 13.022000312805176
+  },
+  {
+    "date": "2020-11-06",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 350.16,
+    "stock_volume": 74972973,
+    "avg_temperature": 14.517834663391113,
+    "max_temperature": 17.772001266479492,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2020-11-07",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.953250885009766,
+    "max_temperature": 14.621999740600586,
+    "min_temperature": 9.722000122070312
+  },
+  {
+    "date": "2020-11-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.924083709716797,
+    "max_temperature": 13.522000312805176,
+    "min_temperature": 10.621999740600586
+  },
+  {
+    "date": "2020-11-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 354.56,
+    "stock_volume": 172304203,
+    "avg_temperature": 10.461583137512207,
+    "max_temperature": 12.67199993133545,
+    "min_temperature": 6.4720001220703125
+  },
+  {
+    "date": "2020-11-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 354.04,
+    "stock_volume": 85552022,
+    "avg_temperature": 11.107417106628418,
+    "max_temperature": 12.972000122070312,
+    "min_temperature": 6.822000026702881
+  },
+  {
+    "date": "2020-11-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 356.67,
+    "stock_volume": 58649048,
+    "avg_temperature": 12.290749549865723,
+    "max_temperature": 14.522000312805176,
+    "min_temperature": 10.522000312805176
+  },
+  {
+    "date": "2020-11-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 353.21,
+    "stock_volume": 68118563,
+    "avg_temperature": 11.64699935913086,
+    "max_temperature": 14.871999740600586,
+    "min_temperature": 8.92199993133545
+  },
+  {
+    "date": "2020-11-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 358.1,
+    "stock_volume": 62959429,
+    "avg_temperature": 11.738667488098145,
+    "max_temperature": 14.071999549865723,
+    "min_temperature": 10.272000312805176
+  },
+  {
+    "date": "2020-11-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.947001457214355,
+    "max_temperature": 14.17199993133545,
+    "min_temperature": 9.222000122070312
+  },
+  {
+    "date": "2020-11-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.784500122070312,
+    "max_temperature": 15.821999549865723,
+    "min_temperature": 9.522000312805176
+  },
+  {
+    "date": "2020-11-16",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 362.57,
+    "stock_volume": 74541138,
+    "avg_temperature": 14.009499549865723,
+    "max_temperature": 19.87200164794922,
+    "min_temperature": 10.472000122070312
+  },
+  {
+    "date": "2020-11-17",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 360.62,
+    "stock_volume": 66111009,
+    "avg_temperature": 14.434500694274902,
+    "max_temperature": 18.172000885009766,
+    "min_temperature": 11.67199993133545
+  },
+  {
+    "date": "2020-11-18",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 356.28,
+    "stock_volume": 70591299,
+    "avg_temperature": 14.06783390045166,
+    "max_temperature": 15.022000312805176,
+    "min_temperature": 13.42199993133545
+  },
+  {
+    "date": "2020-11-19",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 357.78,
+    "stock_volume": 59940947,
+    "avg_temperature": 12.080334663391113,
+    "max_temperature": 14.222000122070312,
+    "min_temperature": 10.371999740600586
+  },
+  {
+    "date": "2020-11-20",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 355.33,
+    "stock_volume": 70411890,
+    "avg_temperature": 11.282417297363281,
+    "max_temperature": 15.571999549865723,
+    "min_temperature": 7.572000026702881
+  },
+  {
+    "date": "2020-11-21",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.863665580749512,
+    "max_temperature": 15.722000122070312,
+    "min_temperature": 6.671999931335449
+  },
+  {
+    "date": "2020-11-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.007416725158691,
+    "max_temperature": 15.222000122070312,
+    "min_temperature": 8.321999549865723
+  },
+  {
+    "date": "2020-11-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 357.46,
+    "stock_volume": 63230608,
+    "avg_temperature": 11.594916343688965,
+    "max_temperature": 13.821999549865723,
+    "min_temperature": 10.42199993133545
+  },
+  {
+    "date": "2020-11-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 363.22,
+    "stock_volume": 60985003,
+    "avg_temperature": 11.226166725158691,
+    "max_temperature": 13.621999740600586,
+    "min_temperature": 8.022000312805176
+  },
+  {
+    "date": "2020-11-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 362.66,
+    "stock_volume": 45330890,
+    "avg_temperature": 11.782417297363281,
+    "max_temperature": 15.121999740600586,
+    "min_temperature": 9.92199993133545
+  },
+  {
+    "date": "2020-11-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.678250312805176,
+    "max_temperature": 16.672000885009766,
+    "min_temperature": 8.371999740600586
+  },
+  {
+    "date": "2020-11-27",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 363.67,
+    "stock_volume": 28514072,
+    "avg_temperature": 11.878250122070312,
+    "max_temperature": 15.571999549865723,
+    "min_temperature": 6.822000026702881
+  },
+  {
+    "date": "2020-11-28",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.326167106628418,
+    "max_temperature": 15.17199993133545,
+    "min_temperature": 6.322000026702881
+  },
+  {
+    "date": "2020-11-29",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.007415771484375,
+    "max_temperature": 16.12200164794922,
+    "min_temperature": 6.421999931335449
+  },
+  {
+    "date": "2020-11-30",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 362.06,
+    "stock_volume": 83872709,
+    "avg_temperature": 11.161582946777344,
+    "max_temperature": 14.621999740600586,
+    "min_temperature": 9.972000122070312
+  },
+  {
+    "date": "2020-12-01",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.02,
+    "stock_volume": 72509670,
+    "avg_temperature": 11.390750885009766,
+    "max_temperature": 14.321999549865723,
+    "min_temperature": 8.071999549865723
+  },
+  {
+    "date": "2020-12-02",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.79,
+    "stock_volume": 45927000,
+    "avg_temperature": 11.015750885009766,
+    "max_temperature": 15.022000312805176,
+    "min_temperature": 8.821999549865723
+  },
+  {
+    "date": "2020-12-03",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.69,
+    "stock_volume": 62881998,
+    "avg_temperature": 11.411582946777344,
+    "max_temperature": 16.472000122070312,
+    "min_temperature": 7.421999931335449
+  },
+  {
+    "date": "2020-12-04",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 369.85,
+    "stock_volume": 50749859,
+    "avg_temperature": 11.457416534423828,
+    "max_temperature": 17.62200164794922,
+    "min_temperature": 6.9720001220703125
+  },
+  {
+    "date": "2020-12-05",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.85949993133545,
+    "max_temperature": 16.222000122070312,
+    "min_temperature": 7.822000026702881
+  },
+  {
+    "date": "2020-12-06",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.92199993133545,
+    "max_temperature": 13.92199993133545,
+    "min_temperature": 9.321999549865723
+  },
+  {
+    "date": "2020-12-07",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 369.09,
+    "stock_volume": 48944269,
+    "avg_temperature": 13.301167488098145,
+    "max_temperature": 20.222000122070312,
+    "min_temperature": 8.772000312805176
+  },
+  {
+    "date": "2020-12-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 370.17,
+    "stock_volume": 42458859,
+    "avg_temperature": 13.432418823242188,
+    "max_temperature": 18.672000885009766,
+    "min_temperature": 7.421999931335449
+  },
+  {
+    "date": "2020-12-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.85,
+    "stock_volume": 74098312,
+    "avg_temperature": 11.561583518981934,
+    "max_temperature": 18.12200164794922,
+    "min_temperature": 6.121999740600586
+  },
+  {
+    "date": "2020-12-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.73,
+    "stock_volume": 57735353,
+    "avg_temperature": 11.52408218383789,
+    "max_temperature": 15.971999168395996,
+    "min_temperature": 8.071999549865723
+  },
+  {
+    "date": "2020-12-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 366.3,
+    "stock_volume": 57698614,
+    "avg_temperature": 10.117833137512207,
+    "max_temperature": 13.071999549865723,
+    "min_temperature": 8.022000312805176
+  },
+  {
+    "date": "2020-12-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.019916534423828,
+    "max_temperature": 13.472000122070312,
+    "min_temperature": 10.121999740600586
+  },
+  {
+    "date": "2020-12-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.424084663391113,
+    "max_temperature": 13.972000122070312,
+    "min_temperature": 9.371999740600586
+  },
+  {
+    "date": "2020-12-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 364.66,
+    "stock_volume": 69216174,
+    "avg_temperature": 9.909500122070312,
+    "max_temperature": 12.321999549865723,
+    "min_temperature": 6.072000026702881
+  },
+  {
+    "date": "2020-12-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 369.59,
+    "stock_volume": 64071099,
+    "avg_temperature": 10.159500122070312,
+    "max_temperature": 11.972000122070312,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2020-12-16",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 370.17,
+    "stock_volume": 58420517,
+    "avg_temperature": 9.594916343688965,
+    "max_temperature": 11.92199993133545,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2020-12-17",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 372.24,
+    "stock_volume": 64119472,
+    "avg_temperature": 11.79699993133545,
+    "max_temperature": 13.67199993133545,
+    "min_temperature": 10.371999740600586
+  },
+  {
+    "date": "2020-12-18",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 369.18,
+    "stock_volume": 136542328,
+    "avg_temperature": 9.953248977661133,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 8.17199993133545
+  },
+  {
+    "date": "2020-12-19",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 9.376166343688965,
+    "max_temperature": 13.022000312805176,
+    "min_temperature": 5.371999740600586
+  },
+  {
+    "date": "2020-12-20",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 8.851166725158691,
+    "max_temperature": 12.92199993133545,
+    "min_temperature": 6.322000026702881
+  },
+  {
+    "date": "2020-12-21",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 367.86,
+    "stock_volume": 96386745,
+    "avg_temperature": 8.561583518981934,
+    "max_temperature": 12.121999740600586,
+    "min_temperature": 6.322000026702881
+  },
+  {
+    "date": "2020-12-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 367.24,
+    "stock_volume": 48388462,
+    "avg_temperature": 9.844915390014648,
+    "max_temperature": 13.071999549865723,
+    "min_temperature": 6.371999740600586
+  },
+  {
+    "date": "2020-12-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 367.57,
+    "stock_volume": 46201402,
+    "avg_temperature": 8.888667106628418,
+    "max_temperature": 13.321999549865723,
+    "min_temperature": 5.171999931335449
+  },
+  {
+    "date": "2020-12-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 369.0,
+    "stock_volume": 26457853,
+    "avg_temperature": 8.457417488098145,
+    "max_temperature": 12.871999740600586,
+    "min_temperature": 5.771999835968018
+  },
+  {
+    "date": "2020-12-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.753250122070312,
+    "max_temperature": 12.972000122070312,
+    "min_temperature": 7.9720001220703125
+  },
+  {
+    "date": "2020-12-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.95324993133545,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 11.022000312805176
+  },
+  {
+    "date": "2020-12-27",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 9.469917297363281,
+    "max_temperature": 12.321999549865723,
+    "min_temperature": 7.2220001220703125
+  },
+  {
+    "date": "2020-12-28",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 372.17,
+    "stock_volume": 37932709,
+    "avg_temperature": 9.867834091186523,
+    "max_temperature": 12.522000312805176,
+    "min_temperature": 8.17199993133545
+  },
+  {
+    "date": "2020-12-29",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 371.46,
+    "stock_volume": 53680451,
+    "avg_temperature": 9.101166725158691,
+    "max_temperature": 13.022000312805176,
+    "min_temperature": 6.421999931335449
+  },
+  {
+    "date": "2020-12-30",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 371.99,
+    "stock_volume": 49455259,
+    "avg_temperature": 8.913666725158691,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 6.371999740600586
+  },
+  {
+    "date": "2020-12-31",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 373.88,
+    "stock_volume": 78520702,
+    "avg_temperature": 10.755332946777344,
+    "max_temperature": 13.522000312805176,
+    "min_temperature": 8.222000122070312
+  },
+  {
+    "date": "2021-01-01",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.057417869567871,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 7.021999835968018
+  },
+  {
+    "date": "2021-01-02",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.276165962219238,
+    "max_temperature": 12.222000122070312,
+    "min_temperature": 8.272000312805176
+  },
+  {
+    "date": "2021-01-03",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.18658447265625,
+    "max_temperature": 10.92199993133545,
+    "min_temperature": 9.621999740600586
+  },
+  {
+    "date": "2021-01-04",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 368.79,
+    "stock_volume": 110210810,
+    "avg_temperature": 11.428250312805176,
+    "max_temperature": 13.972000122070312,
+    "min_temperature": 9.522000312805176
+  },
+  {
+    "date": "2021-01-05",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 371.33,
+    "stock_volume": 66426229,
+    "avg_temperature": 9.190749168395996,
+    "max_temperature": 12.67199993133545,
+    "min_temperature": 5.671999931335449
+  },
+  {
+    "date": "2021-01-06",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 373.55,
+    "stock_volume": 107997675,
+    "avg_temperature": 8.601167678833008,
+    "max_temperature": 11.772000312805176,
+    "min_temperature": 5.871999740600586
+  },
+  {
+    "date": "2021-01-07",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 379.1,
+    "stock_volume": 68766812,
+    "avg_temperature": 9.565749168395996,
+    "max_temperature": 13.871999740600586,
+    "min_temperature": 7.171999931335449
+  },
+  {
+    "date": "2021-01-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 381.26,
+    "stock_volume": 71677208,
+    "avg_temperature": 9.651165962219238,
+    "max_temperature": 13.071999549865723,
+    "min_temperature": 7.121999740600586
+  },
+  {
+    "date": "2021-01-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 8.846999168395996,
+    "max_temperature": 12.621999740600586,
+    "min_temperature": 5.871999740600586
+  },
+  {
+    "date": "2021-01-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 9.44908332824707,
+    "max_temperature": 12.022000312805176,
+    "min_temperature": 7.2220001220703125
+  },
+  {
+    "date": "2021-01-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 378.69,
+    "stock_volume": 51176719,
+    "avg_temperature": 9.65533447265625,
+    "max_temperature": 12.972000122070312,
+    "min_temperature": 7.121999740600586
+  },
+  {
+    "date": "2021-01-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 378.77,
+    "stock_volume": 51440114,
+    "avg_temperature": 10.032416343688965,
+    "max_temperature": 13.371999740600586,
+    "min_temperature": 7.621999740600586
+  },
+  {
+    "date": "2021-01-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 379.79,
+    "stock_volume": 45303619,
+    "avg_temperature": 11.30949878692627,
+    "max_temperature": 14.972000122070312,
+    "min_temperature": 9.272000312805176
+  },
+  {
+    "date": "2021-01-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 378.46,
+    "stock_volume": 49989113,
+    "avg_temperature": 12.196999549865723,
+    "max_temperature": 16.07200050354004,
+    "min_temperature": 8.972000122070312
+  },
+  {
+    "date": "2021-01-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 375.7,
+    "stock_volume": 107159962,
+    "avg_temperature": 11.444915771484375,
+    "max_temperature": 17.472000122070312,
+    "min_temperature": 8.071999549865723
+  },
+  {
+    "date": "2021-01-16",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.449082374572754,
+    "max_temperature": 15.821999549865723,
+    "min_temperature": 8.522000312805176
+  },
+  {
+    "date": "2021-01-17",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.544917106628418,
+    "max_temperature": 20.222000122070312,
+    "min_temperature": 8.871999740600586
+  },
+  {
+    "date": "2021-01-18",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 13.222000122070312,
+    "max_temperature": 21.57200050354004,
+    "min_temperature": 9.022000312805176
+  },
+  {
+    "date": "2021-01-19",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 378.65,
+    "stock_volume": 51233300,
+    "avg_temperature": 14.459500312805176,
+    "max_temperature": 19.62200164794922,
+    "min_temperature": 10.92199993133545
+  },
+  {
+    "date": "2021-01-20",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 383.89,
+    "stock_volume": 61836062,
+    "avg_temperature": 11.62408447265625,
+    "max_temperature": 16.922000885009766,
+    "min_temperature": 7.072000026702881
+  },
+  {
+    "date": "2021-01-21",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 384.24,
+    "stock_volume": 47955809,
+    "avg_temperature": 10.840750694274902,
+    "max_temperature": 15.621999740600586,
+    "min_temperature": 9.222000122070312
+  },
+  {
+    "date": "2021-01-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 382.88,
+    "stock_volume": 52136931,
+    "avg_temperature": 9.951168060302734,
+    "max_temperature": 10.772000312805176,
+    "min_temperature": 9.42199993133545
+  },
+  {
+    "date": "2021-01-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 8.853251457214355,
+    "max_temperature": 11.272000312805176,
+    "min_temperature": 6.521999835968018
+  },
+  {
+    "date": "2021-01-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 8.794917106628418,
+    "max_temperature": 10.67199993133545,
+    "min_temperature": 6.4720001220703125
+  },
+  {
+    "date": "2021-01-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 384.39,
+    "stock_volume": 70401971,
+    "avg_temperature": 8.211583137512207,
+    "max_temperature": 10.522000312805176,
+    "min_temperature": 6.4720001220703125
+  },
+  {
+    "date": "2021-01-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 383.79,
+    "stock_volume": 42665281,
+    "avg_temperature": 7.07616662979126,
+    "max_temperature": 9.621999740600586,
+    "min_temperature": 2.871999979019165
+  },
+  {
+    "date": "2021-01-27",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 374.41,
+    "stock_volume": 123351078,
+    "avg_temperature": 10.030333518981934,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2021-01-28",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 377.63,
+    "stock_volume": 94198104,
+    "avg_temperature": 10.017834663391113,
+    "max_temperature": 11.321999549865723,
+    "min_temperature": 8.522000312805176
+  },
+  {
+    "date": "2021-01-29",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 370.07,
+    "stock_volume": 126765121,
+    "avg_temperature": 8.751166343688965,
+    "max_temperature": 10.621999740600586,
+    "min_temperature": 5.921999931335449
+  },
+  {
+    "date": "2021-01-30",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 8.95324993133545,
+    "max_temperature": 11.571999549865723,
+    "min_temperature": 7.322000026702881
+  },
+  {
+    "date": "2021-01-31",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.601165771484375,
+    "max_temperature": 13.92199993133545,
+    "min_temperature": 8.321999549865723
+  },
+  {
+    "date": "2021-02-01",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 376.23,
+    "stock_volume": 75817597,
+    "avg_temperature": 11.13033390045166,
+    "max_temperature": 14.522000312805176,
+    "min_temperature": 7.521999835968018
+  },
+  {
+    "date": "2021-02-02",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 381.55,
+    "stock_volume": 62923781,
+    "avg_temperature": 12.07824993133545,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 11.42199993133545
+  },
+  {
+    "date": "2021-02-03",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 381.85,
+    "stock_volume": 52427090,
+    "avg_temperature": 9.524084091186523,
+    "max_temperature": 12.071999549865723,
+    "min_temperature": 6.521999835968018
+  },
+  {
+    "date": "2021-02-04",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 386.19,
+    "stock_volume": 47142555,
+    "avg_temperature": 9.522000312805176,
+    "max_temperature": 12.821999549865723,
+    "min_temperature": 7.072000026702881
+  },
+  {
+    "date": "2021-02-05",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 387.71,
+    "stock_volume": 48669773,
+    "avg_temperature": 10.059500694274902,
+    "max_temperature": 12.972000122070312,
+    "min_temperature": 7.822000026702881
+  },
+  {
+    "date": "2021-02-06",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.740750312805176,
+    "max_temperature": 16.272001266479492,
+    "min_temperature": 8.92199993133545
+  },
+  {
+    "date": "2021-02-07",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.238667488098145,
+    "max_temperature": 15.722000122070312,
+    "min_temperature": 6.822000026702881
+  },
+  {
+    "date": "2021-02-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.51,
+    "stock_volume": 38365185,
+    "avg_temperature": 9.69908332824707,
+    "max_temperature": 13.621999740600586,
+    "min_temperature": 8.022000312805176
+  },
+  {
+    "date": "2021-02-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.25,
+    "stock_volume": 34142633,
+    "avg_temperature": 10.340750694274902,
+    "max_temperature": 11.621999740600586,
+    "min_temperature": 9.321999549865723
+  },
+  {
+    "date": "2021-02-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.08,
+    "stock_volume": 58362935,
+    "avg_temperature": 10.546998977661133,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 7.9720001220703125
+  },
+  {
+    "date": "2021-02-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.71,
+    "stock_volume": 42913288,
+    "avg_temperature": 10.682418823242188,
+    "max_temperature": 12.071999549865723,
+    "min_temperature": 9.321999549865723
+  },
+  {
+    "date": "2021-02-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 392.64,
+    "stock_volume": 50593270,
+    "avg_temperature": 11.126167297363281,
+    "max_temperature": 13.17199993133545,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2021-02-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.636584281921387,
+    "max_temperature": 13.571999549865723,
+    "min_temperature": 10.472000122070312
+  },
+  {
+    "date": "2021-02-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.240748405456543,
+    "max_temperature": 12.522000312805176,
+    "min_temperature": 7.621999740600586
+  },
+  {
+    "date": "2021-02-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.163665771484375,
+    "max_temperature": 13.621999740600586,
+    "min_temperature": 11.42199993133545
+  },
+  {
+    "date": "2021-02-16",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 392.3,
+    "stock_volume": 50972366,
+    "avg_temperature": 10.594916343688965,
+    "max_temperature": 13.67199993133545,
+    "min_temperature": 7.072000026702881
+  },
+  {
+    "date": "2021-02-17",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 392.39,
+    "stock_volume": 51746878,
+    "avg_temperature": 10.567832946777344,
+    "max_temperature": 14.222000122070312,
+    "min_temperature": 8.42199993133545
+  },
+  {
+    "date": "2021-02-18",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.72,
+    "stock_volume": 59712773,
+    "avg_temperature": 11.236583709716797,
+    "max_temperature": 15.121999740600586,
+    "min_temperature": 8.522000312805176
+  },
+  {
+    "date": "2021-02-19",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 390.03,
+    "stock_volume": 83240971,
+    "avg_temperature": 11.801166534423828,
+    "max_temperature": 14.121999740600586,
+    "min_temperature": 10.772000312805176
+  },
+  {
+    "date": "2021-02-20",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.942832946777344,
+    "max_temperature": 14.571999549865723,
+    "min_temperature": 8.722000122070312
+  },
+  {
+    "date": "2021-02-21",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.163666725158691,
+    "max_temperature": 13.42199993133545,
+    "min_temperature": 7.021999835968018
+  },
+  {
+    "date": "2021-02-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 387.03,
+    "stock_volume": 66517089,
+    "avg_temperature": 12.18449878692627,
+    "max_temperature": 18.82200050354004,
+    "min_temperature": 7.371999740600586
+  },
+  {
+    "date": "2021-02-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 387.5,
+    "stock_volume": 107284127,
+    "avg_temperature": 13.407417297363281,
+    "max_temperature": 22.522001266479492,
+    "min_temperature": 8.67199993133545
+  },
+  {
+    "date": "2021-02-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 391.77,
+    "stock_volume": 72433946,
+    "avg_temperature": 13.676167488098145,
+    "max_temperature": 21.37200164794922,
+    "min_temperature": 8.371999740600586
+  },
+  {
+    "date": "2021-02-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 382.33,
+    "stock_volume": 144712701,
+    "avg_temperature": 11.96158504486084,
+    "max_temperature": 17.12200164794922,
+    "min_temperature": 7.9720001220703125
+  },
+  {
+    "date": "2021-02-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 380.36,
+    "stock_volume": 149530614,
+    "avg_temperature": 11.240750312805176,
+    "max_temperature": 15.17199993133545,
+    "min_temperature": 8.022000312805176
+  },
+  {
+    "date": "2021-02-27",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 9.999083518981934,
+    "max_temperature": 15.222000122070312,
+    "min_temperature": 7.021999835968018
+  },
+  {
+    "date": "2021-02-28",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.946998596191406,
+    "max_temperature": 18.222000122070312,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2021-03-01",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 389.58,
+    "stock_volume": 105348798,
+    "avg_temperature": 11.532417297363281,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 8.321999549865723
+  },
+  {
+    "date": "2021-03-02",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 386.54,
+    "stock_volume": 79595332,
+    "avg_temperature": 11.301166534423828,
+    "max_temperature": 15.871999740600586,
+    "min_temperature": 7.871999740600586
+  },
+  {
+    "date": "2021-03-03",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 381.42,
+    "stock_volume": 119940211,
+    "avg_temperature": 10.26574993133545,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 7.322000026702881
+  },
+  {
+    "date": "2021-03-04",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 376.7,
+    "stock_volume": 183433020,
+    "avg_temperature": 10.197000503540039,
+    "max_temperature": 12.472000122070312,
+    "min_temperature": 8.722000122070312
+  },
+  {
+    "date": "2021-03-05",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 383.63,
+    "stock_volume": 152039624,
+    "avg_temperature": 10.576165199279785,
+    "max_temperature": 14.42199993133545,
+    "min_temperature": 7.371999740600586
+  },
+  {
+    "date": "2021-03-06",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.194915771484375,
+    "max_temperature": 13.871999740600586,
+    "min_temperature": 7.421999931335449
+  },
+  {
+    "date": "2021-03-07",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 9.44283390045166,
+    "max_temperature": 12.821999549865723,
+    "min_temperature": 5.7220001220703125
+  },
+  {
+    "date": "2021-03-08",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 381.72,
+    "stock_volume": 123149245,
+    "avg_temperature": 10.105332374572754,
+    "max_temperature": 12.022000312805176,
+    "min_temperature": 8.92199993133545
+  },
+  {
+    "date": "2021-03-09",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 387.17,
+    "stock_volume": 113633556,
+    "avg_temperature": 9.959500312805176,
+    "max_temperature": 11.42199993133545,
+    "min_temperature": 8.722000122070312
+  },
+  {
+    "date": "2021-03-10",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 389.58,
+    "stock_volume": 109899410,
+    "avg_temperature": 8.942832946777344,
+    "max_temperature": 11.821999549865723,
+    "min_temperature": 7.671999931335449
+  },
+  {
+    "date": "2021-03-11",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 393.53,
+    "stock_volume": 86245040,
+    "avg_temperature": 8.690749168395996,
+    "max_temperature": 12.321999549865723,
+    "min_temperature": 6.921999931335449
+  },
+  {
+    "date": "2021-03-12",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 394.06,
+    "stock_volume": 64653565,
+    "avg_temperature": 9.815749168395996,
+    "max_temperature": 12.571999549865723,
+    "min_temperature": 6.822000026702881
+  },
+  {
+    "date": "2021-03-13",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.174083709716797,
+    "max_temperature": 13.522000312805176,
+    "min_temperature": 8.272000312805176
+  },
+  {
+    "date": "2021-03-14",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.030332565307617,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 8.722000122070312
+  },
+  {
+    "date": "2021-03-15",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 396.41,
+    "stock_volume": 73592302,
+    "avg_temperature": 8.849082946777344,
+    "max_temperature": 11.67199993133545,
+    "min_temperature": 6.9720001220703125
+  },
+  {
+    "date": "2021-03-16",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 395.91,
+    "stock_volume": 73722506,
+    "avg_temperature": 8.42199993133545,
+    "max_temperature": 10.371999740600586,
+    "min_temperature": 5.921999931335449
+  },
+  {
+    "date": "2021-03-17",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 397.26,
+    "stock_volume": 97959265,
+    "avg_temperature": 8.574082374572754,
+    "max_temperature": 10.222000122070312,
+    "min_temperature": 6.121999740600586
+  },
+  {
+    "date": "2021-03-18",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 391.48,
+    "stock_volume": 115349101,
+    "avg_temperature": 10.417834281921387,
+    "max_temperature": 13.071999549865723,
+    "min_temperature": 8.92199993133545
+  },
+  {
+    "date": "2021-03-19",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 389.48,
+    "stock_volume": 113624490,
+    "avg_temperature": 11.067832946777344,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 8.222000122070312
+  },
+  {
+    "date": "2021-03-20",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.111583709716797,
+    "max_temperature": 12.071999549865723,
+    "min_temperature": 8.071999549865723
+  },
+  {
+    "date": "2021-03-21",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.01574993133545,
+    "max_temperature": 14.522000312805176,
+    "min_temperature": 6.4720001220703125
+  },
+  {
+    "date": "2021-03-22",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 392.59,
+    "stock_volume": 73778646,
+    "avg_temperature": 10.211583137512207,
+    "max_temperature": 14.272000312805176,
+    "min_temperature": 7.021999835968018
+  },
+  {
+    "date": "2021-03-23",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 389.5,
+    "stock_volume": 90686552,
+    "avg_temperature": 11.869915962219238,
+    "max_temperature": 18.12200164794922,
+    "min_temperature": 8.871999740600586
+  },
+  {
+    "date": "2021-03-24",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 387.52,
+    "stock_volume": 97588644,
+    "avg_temperature": 12.71574878692627,
+    "max_temperature": 17.672000885009766,
+    "min_temperature": 8.17199993133545
+  },
+  {
+    "date": "2021-03-25",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 389.7,
+    "stock_volume": 116128622,
+    "avg_temperature": 10.830333709716797,
+    "max_temperature": 14.022000312805176,
+    "min_temperature": 9.071999549865723
+  },
+  {
+    "date": "2021-03-26",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 395.98,
+    "stock_volume": 114409114,
+    "avg_temperature": 11.93658447265625,
+    "max_temperature": 16.07200050354004,
+    "min_temperature": 8.222000122070312
+  },
+  {
+    "date": "2021-03-27",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.11783218383789,
+    "max_temperature": 14.67199993133545,
+    "min_temperature": 8.472000122070312
+  },
+  {
+    "date": "2021-03-28",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.886582374572754,
+    "max_temperature": 13.871999740600586,
+    "min_temperature": 7.621999740600586
+  },
+  {
+    "date": "2021-03-29",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 395.78,
+    "stock_volume": 108107626,
+    "avg_temperature": 10.930333137512207,
+    "max_temperature": 14.222000122070312,
+    "min_temperature": 7.871999740600586
+  },
+  {
+    "date": "2021-03-30",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 394.73,
+    "stock_volume": 76262249,
+    "avg_temperature": 13.567832946777344,
+    "max_temperature": 21.922000885009766,
+    "min_temperature": 9.022000312805176
+  },
+  {
+    "date": "2021-03-31",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 396.33,
+    "stock_volume": 112734214,
+    "avg_temperature": 14.738665580749512,
+    "max_temperature": 23.07200050354004,
+    "min_temperature": 9.972000122070312
+  },
+  {
+    "date": "2021-04-01",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 400.61,
+    "stock_volume": 99682876,
+    "avg_temperature": 16.315752029418945,
+    "max_temperature": 23.62200164794922,
+    "min_temperature": 11.92199993133545
+  },
+  {
+    "date": "2021-04-02",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.999083518981934,
+    "max_temperature": 17.172000885009766,
+    "min_temperature": 9.92199993133545
+  },
+  {
+    "date": "2021-04-03",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.834498405456543,
+    "max_temperature": 12.722000122070312,
+    "min_temperature": 9.722000122070312
+  },
+  {
+    "date": "2021-04-04",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.253250122070312,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 10.321999549865723
+  },
+  {
+    "date": "2021-04-05",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 406.36,
+    "stock_volume": 91684764,
+    "avg_temperature": 10.917834281921387,
+    "max_temperature": 12.022000312805176,
+    "min_temperature": 9.92199993133545
+  },
+  {
+    "date": "2021-04-06",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 406.12,
+    "stock_volume": 62020953,
+    "avg_temperature": 10.365750312805176,
+    "max_temperature": 11.821999549865723,
+    "min_temperature": 9.272000312805176
+  },
+  {
+    "date": "2021-04-07",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 406.59,
+    "stock_volume": 55836280,
+    "avg_temperature": 10.442832946777344,
+    "max_temperature": 12.17199993133545,
+    "min_temperature": 9.022000312805176
+  },
+  {
+    "date": "2021-04-08",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 408.52,
+    "stock_volume": 57863114,
+    "avg_temperature": 10.605334281921387,
+    "max_temperature": 15.522000312805176,
+    "min_temperature": 8.821999549865723
+  },
+  {
+    "date": "2021-04-09",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 411.49,
+    "stock_volume": 61104559,
+    "avg_temperature": 11.336583137512207,
+    "max_temperature": 14.42199993133545,
+    "min_temperature": 8.821999549865723
+  },
+  {
+    "date": "2021-04-10",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 10.082416534423828,
+    "max_temperature": 15.371999740600586,
+    "min_temperature": 7.171999931335449
+  },
+  {
+    "date": "2021-04-11",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.23449993133545,
+    "max_temperature": 15.571999549865723,
+    "min_temperature": 7.921999931335449
+  },
+  {
+    "date": "2021-04-12",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 411.64,
+    "stock_volume": 56704899,
+    "avg_temperature": 10.713665962219238,
+    "max_temperature": 13.522000312805176,
+    "min_temperature": 9.371999740600586
+  },
+  {
+    "date": "2021-04-13",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 412.86,
+    "stock_volume": 56550988,
+    "avg_temperature": 11.332417488098145,
+    "max_temperature": 14.821999549865723,
+    "min_temperature": 9.42199993133545
+  },
+  {
+    "date": "2021-04-14",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 411.45,
+    "stock_volume": 61659907,
+    "avg_temperature": 11.2490816116333,
+    "max_temperature": 14.222000122070312,
+    "min_temperature": 9.321999549865723
+  },
+  {
+    "date": "2021-04-15",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 415.87,
+    "stock_volume": 60229842,
+    "avg_temperature": 11.03033447265625,
+    "max_temperature": 12.522000312805176,
+    "min_temperature": 9.371999740600586
+  },
+  {
+    "date": "2021-04-16",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 417.26,
+    "stock_volume": 82037278,
+    "avg_temperature": 10.417834281921387,
+    "max_temperature": 12.772000312805176,
+    "min_temperature": 8.92199993133545
+  },
+  {
+    "date": "2021-04-17",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.861583709716797,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 9.821999549865723
+  },
+  {
+    "date": "2021-04-18",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 13.832415580749512,
+    "max_temperature": 18.172000885009766,
+    "min_temperature": 10.222000122070312
+  },
+  {
+    "date": "2021-04-19",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 415.21,
+    "stock_volume": 78498496,
+    "avg_temperature": 13.263668060302734,
+    "max_temperature": 17.972000122070312,
+    "min_temperature": 9.821999549865723
+  },
+  {
+    "date": "2021-04-20",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 412.17,
+    "stock_volume": 81851828,
+    "avg_temperature": 12.457417488098145,
+    "max_temperature": 15.571999549865723,
+    "min_temperature": 10.222000122070312
+  },
+  {
+    "date": "2021-04-21",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 416.07,
+    "stock_volume": 66792983,
+    "avg_temperature": 11.76574993133545,
+    "max_temperature": 13.92199993133545,
+    "min_temperature": 9.722000122070312
+  },
+  {
+    "date": "2021-04-22",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 412.27,
+    "stock_volume": 97582788,
+    "avg_temperature": 10.955333709716797,
+    "max_temperature": 13.321999549865723,
+    "min_temperature": 10.022000312805176
+  },
+  {
+    "date": "2021-04-23",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 416.74,
+    "stock_volume": 73276195,
+    "avg_temperature": 11.199084281921387,
+    "max_temperature": 13.772000312805176,
+    "min_temperature": 10.022000312805176
+  },
+  {
+    "date": "2021-04-24",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.247000694274902,
+    "max_temperature": 13.772000312805176,
+    "min_temperature": 9.92199993133545
+  },
+  {
+    "date": "2021-04-25",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.409500122070312,
+    "max_temperature": 12.621999740600586,
+    "min_temperature": 10.472000122070312
+  },
+  {
+    "date": "2021-04-26",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 417.61,
+    "stock_volume": 52182392,
+    "avg_temperature": 10.774083137512207,
+    "max_temperature": 12.42199993133545,
+    "min_temperature": 9.071999549865723
+  },
+  {
+    "date": "2021-04-27",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 417.52,
+    "stock_volume": 51303056,
+    "avg_temperature": 11.615750312805176,
+    "max_temperature": 16.422000885009766,
+    "min_temperature": 9.022000312805176
+  },
+  {
+    "date": "2021-04-28",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 417.4,
+    "stock_volume": 51238854,
+    "avg_temperature": 13.134501457214355,
+    "max_temperature": 17.472000122070312,
+    "min_temperature": 9.472000122070312
+  },
+  {
+    "date": "2021-04-29",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 420.06,
+    "stock_volume": 78544329,
+    "avg_temperature": 13.167834281921387,
+    "max_temperature": 18.37200164794922,
+    "min_temperature": 10.772000312805176
+  },
+  {
+    "date": "2021-04-30",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 417.3,
+    "stock_volume": 85527030,
+    "avg_temperature": 13.034502983093262,
+    "max_temperature": 15.621999740600586,
+    "min_temperature": 10.871999740600586
+  },
+  {
+    "date": "2021-05-01",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.969917297363281,
+    "max_temperature": 15.971999168395996,
+    "min_temperature": 11.42199993133545
+  },
+  {
+    "date": "2021-05-02",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 13.636584281921387,
+    "max_temperature": 19.672000885009766,
+    "min_temperature": 10.371999740600586
+  },
+  {
+    "date": "2021-05-03",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 418.2,
+    "stock_volume": 68128289,
+    "avg_temperature": 15.099082946777344,
+    "max_temperature": 21.672000885009766,
+    "min_temperature": 10.272000312805176
+  },
+  {
+    "date": "2021-05-04",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 415.62,
+    "stock_volume": 101591166,
+    "avg_temperature": 15.419917106628418,
+    "max_temperature": 19.172000885009766,
+    "min_temperature": 11.371999740600586
+  },
+  {
+    "date": "2021-05-05",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 415.75,
+    "stock_volume": 39960661,
+    "avg_temperature": 13.632415771484375,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 11.272000312805176
+  },
+  {
+    "date": "2021-05-06",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 419.07,
+    "stock_volume": 74321368,
+    "avg_temperature": 12.163665771484375,
+    "max_temperature": 15.92199993133545,
+    "min_temperature": 10.022000312805176
+  },
+  {
+    "date": "2021-05-07",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.12,
+    "stock_volume": 67733790,
+    "avg_temperature": 13.132415771484375,
+    "max_temperature": 18.422000885009766,
+    "min_temperature": 10.321999549865723
+  },
+  {
+    "date": "2021-05-08",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.38450050354004,
+    "max_temperature": 24.422000885009766,
+    "min_temperature": 10.772000312805176
+  },
+  {
+    "date": "2021-05-09",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 17.180334091186523,
+    "max_temperature": 22.472000122070312,
+    "min_temperature": 12.722000122070312
+  },
+  {
+    "date": "2021-05-10",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 417.94,
+    "stock_volume": 81852446,
+    "avg_temperature": 15.363667488098145,
+    "max_temperature": 21.522001266479492,
+    "min_temperature": 11.571999549865723
+  },
+  {
+    "date": "2021-05-11",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 414.21,
+    "stock_volume": 116887975,
+    "avg_temperature": 14.30949878692627,
+    "max_temperature": 19.922000885009766,
+    "min_temperature": 10.821999549865723
+  },
+  {
+    "date": "2021-05-12",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 405.41,
+    "stock_volume": 134811046,
+    "avg_temperature": 11.982417106628418,
+    "max_temperature": 14.321999549865723,
+    "min_temperature": 10.17199993133545
+  },
+  {
+    "date": "2021-05-13",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 410.28,
+    "stock_volume": 106393963,
+    "avg_temperature": 11.105334281921387,
+    "max_temperature": 12.522000312805176,
+    "min_temperature": 9.871999740600586
+  },
+  {
+    "date": "2021-05-14",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 416.58,
+    "stock_volume": 82201629,
+    "avg_temperature": 11.924083709716797,
+    "max_temperature": 15.022000312805176,
+    "min_temperature": 10.371999740600586
+  },
+  {
+    "date": "2021-05-15",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.867833137512207,
+    "max_temperature": 14.821999549865723,
+    "min_temperature": 10.321999549865723
+  },
+  {
+    "date": "2021-05-16",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.028250694274902,
+    "max_temperature": 14.071999549865723,
+    "min_temperature": 10.972000122070312
+  },
+  {
+    "date": "2021-05-17",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 415.52,
+    "stock_volume": 65129221,
+    "avg_temperature": 11.615750312805176,
+    "max_temperature": 13.42199993133545,
+    "min_temperature": 10.321999549865723
+  },
+  {
+    "date": "2021-05-18",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 411.94,
+    "stock_volume": 59810238,
+    "avg_temperature": 13.147000312805176,
+    "max_temperature": 18.37200164794922,
+    "min_temperature": 10.821999549865723
+  },
+  {
+    "date": "2021-05-19",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 410.86,
+    "stock_volume": 106467052,
+    "avg_temperature": 12.92408275604248,
+    "max_temperature": 16.07200050354004,
+    "min_temperature": 10.272000312805176
+  },
+  {
+    "date": "2021-05-20",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 415.28,
+    "stock_volume": 78022218,
+    "avg_temperature": 12.394915580749512,
+    "max_temperature": 16.172000885009766,
+    "min_temperature": 9.42199993133545
+  },
+  {
+    "date": "2021-05-21",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 414.94,
+    "stock_volume": 76578662,
+    "avg_temperature": 13.17824935913086,
+    "max_temperature": 16.522001266479492,
+    "min_temperature": 10.071999549865723
+  },
+  {
+    "date": "2021-05-22",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.542831420898438,
+    "max_temperature": 15.472000122070312,
+    "min_temperature": 9.972000122070312
+  },
+  {
+    "date": "2021-05-23",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 11.726168632507324,
+    "max_temperature": 13.621999740600586,
+    "min_temperature": 10.42199993133545
+  },
+  {
+    "date": "2021-05-24",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 419.17,
+    "stock_volume": 51376702,
+    "avg_temperature": 12.511582374572754,
+    "max_temperature": 17.37200164794922,
+    "min_temperature": 10.621999740600586
+  },
+  {
+    "date": "2021-05-25",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 418.24,
+    "stock_volume": 57451396,
+    "avg_temperature": 14.028251647949219,
+    "max_temperature": 17.12200164794922,
+    "min_temperature": 12.17199993133545
+  },
+  {
+    "date": "2021-05-26",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 419.07,
+    "stock_volume": 43088618,
+    "avg_temperature": 13.436583518981934,
+    "max_temperature": 16.772001266479492,
+    "min_temperature": 10.722000122070312
+  },
+  {
+    "date": "2021-05-27",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 419.29,
+    "stock_volume": 56707677,
+    "avg_temperature": 13.305333137512207,
+    "max_temperature": 18.422000885009766,
+    "min_temperature": 10.321999549865723
+  },
+  {
+    "date": "2021-05-28",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 420.04,
+    "stock_volume": 58520164,
+    "avg_temperature": 13.11783504486084,
+    "max_temperature": 16.32200050354004,
+    "min_temperature": 11.022000312805176
+  },
+  {
+    "date": "2021-05-29",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.58449935913086,
+    "max_temperature": 16.57200050354004,
+    "min_temperature": 10.67199993133545
+  },
+  {
+    "date": "2021-05-30",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 12.980335235595703,
+    "max_temperature": 17.12200164794922,
+    "min_temperature": 11.272000312805176
+  },
+  {
+    "date": "2021-05-31",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.763665199279785,
+    "max_temperature": 17.62200164794922,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2021-06-01",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 419.67,
+    "stock_volume": 54216625,
+    "avg_temperature": 14.107417106628418,
+    "max_temperature": 16.32200050354004,
+    "min_temperature": 12.17199993133545
+  },
+  {
+    "date": "2021-06-02",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 420.33,
+    "stock_volume": 49097061,
+    "avg_temperature": 12.253251075744629,
+    "max_temperature": 13.92199993133545,
+    "min_temperature": 10.772000312805176
+  },
+  {
+    "date": "2021-06-03",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 418.77,
+    "stock_volume": 58138763,
+    "avg_temperature": 12.886582374572754,
+    "max_temperature": 15.522000312805176,
+    "min_temperature": 11.67199993133545
+  },
+  {
+    "date": "2021-06-04",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.6,
+    "stock_volume": 55938789,
+    "avg_temperature": 14.73658275604248,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 11.772000312805176
+  },
+  {
+    "date": "2021-06-05",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.553248405456543,
+    "max_temperature": 19.222000122070312,
+    "min_temperature": 12.222000122070312
+  },
+  {
+    "date": "2021-06-06",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.263667106628418,
+    "max_temperature": 20.87200164794922,
+    "min_temperature": 11.871999740600586
+  },
+  {
+    "date": "2021-06-07",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.19,
+    "stock_volume": 51555032,
+    "avg_temperature": 14.474081993103027,
+    "max_temperature": 18.172000885009766,
+    "min_temperature": 11.621999740600586
+  },
+  {
+    "date": "2021-06-08",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.28,
+    "stock_volume": 47134279,
+    "avg_temperature": 13.013667106628418,
+    "max_temperature": 14.821999549865723,
+    "min_temperature": 11.42199993133545
+  },
+  {
+    "date": "2021-06-09",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 421.65,
+    "stock_volume": 48436342,
+    "avg_temperature": 12.730332374572754,
+    "max_temperature": 14.67199993133545,
+    "min_temperature": 11.022000312805176
+  },
+  {
+    "date": "2021-06-10",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 423.61,
+    "stock_volume": 51020147,
+    "avg_temperature": 12.77824878692627,
+    "max_temperature": 15.071999549865723,
+    "min_temperature": 10.92199993133545
+  },
+  {
+    "date": "2021-06-11",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 424.31,
+    "stock_volume": 45570828,
+    "avg_temperature": 13.70324993133545,
+    "max_temperature": 16.222000122070312,
+    "min_temperature": 11.571999549865723
+  },
+  {
+    "date": "2021-06-12",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.619917869567871,
+    "max_temperature": 18.37200164794922,
+    "min_temperature": 13.92199993133545
+  },
+  {
+    "date": "2021-06-13",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.926166534423828,
+    "max_temperature": 18.57200050354004,
+    "min_temperature": 14.17199993133545
+  },
+  {
+    "date": "2021-06-14",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 425.26,
+    "stock_volume": 42358478,
+    "avg_temperature": 16.282411575317383,
+    "max_temperature": 18.772001266479492,
+    "min_temperature": 14.67199993133545
+  },
+  {
+    "date": "2021-06-15",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 424.48,
+    "stock_volume": 51508508,
+    "avg_temperature": 16.326168060302734,
+    "max_temperature": 21.87200164794922,
+    "min_temperature": 13.071999549865723
+  },
+  {
+    "date": "2021-06-16",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.11,
+    "stock_volume": 79250069,
+    "avg_temperature": 17.780332565307617,
+    "max_temperature": 22.32200050354004,
+    "min_temperature": 13.772000312805176
+  },
+  {
+    "date": "2021-06-17",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 421.97,
+    "stock_volume": 90949659,
+    "avg_temperature": 18.794918060302734,
+    "max_temperature": 23.472000122070312,
+    "min_temperature": 14.522000312805176
+  },
+  {
+    "date": "2021-06-18",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 414.92,
+    "stock_volume": 118676302,
+    "avg_temperature": 17.492834091186523,
+    "max_temperature": 22.422000885009766,
+    "min_temperature": 14.472000122070312
+  },
+  {
+    "date": "2021-06-19",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.565751075744629,
+    "max_temperature": 17.922000885009766,
+    "min_temperature": 13.222000122070312
+  },
+  {
+    "date": "2021-06-20",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.601166725158691,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2021-06-21",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 420.86,
+    "stock_volume": 72822028,
+    "avg_temperature": 15.244918823242188,
+    "max_temperature": 17.87200164794922,
+    "min_temperature": 14.022000312805176
+  },
+  {
+    "date": "2021-06-22",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 423.11,
+    "stock_volume": 57700303,
+    "avg_temperature": 16.472002029418945,
+    "max_temperature": 19.672000885009766,
+    "min_temperature": 14.772000312805176
+  },
+  {
+    "date": "2021-06-23",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 422.6,
+    "stock_volume": 49445414,
+    "avg_temperature": 15.944916725158691,
+    "max_temperature": 17.272001266479492,
+    "min_temperature": 14.821999549865723
+  },
+  {
+    "date": "2021-06-24",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 425.1,
+    "stock_volume": 45110288,
+    "avg_temperature": 14.501168251037598,
+    "max_temperature": 16.272001266479492,
+    "min_temperature": 12.67199993133545
+  },
+  {
+    "date": "2021-06-25",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 426.61,
+    "stock_volume": 58129525,
+    "avg_temperature": 13.794917106628418,
+    "max_temperature": 15.371999740600586,
+    "min_temperature": 12.67199993133545
+  },
+  {
+    "date": "2021-06-26",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 13.651165962219238,
+    "max_temperature": 15.821999549865723,
+    "min_temperature": 12.42199993133545
+  },
+  {
+    "date": "2021-06-27",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 13.938664436340332,
+    "max_temperature": 16.07200050354004,
+    "min_temperature": 12.571999549865723
+  },
+  {
+    "date": "2021-06-28",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 427.47,
+    "stock_volume": 53159581,
+    "avg_temperature": 14.42408275604248,
+    "max_temperature": 17.12200164794922,
+    "min_temperature": 12.972000122070312
+  },
+  {
+    "date": "2021-06-29",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 427.7,
+    "stock_volume": 35970515,
+    "avg_temperature": 15.144916534423828,
+    "max_temperature": 18.022001266479492,
+    "min_temperature": 13.17199993133545
+  },
+  {
+    "date": "2021-06-30",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 428.06,
+    "stock_volume": 64827858,
+    "avg_temperature": 15.259501457214355,
+    "max_temperature": 17.022001266479492,
+    "min_temperature": 13.42199993133545
+  },
+  {
+    "date": "2021-07-01",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 430.43,
+    "stock_volume": 53441027,
+    "avg_temperature": 14.722000122070312,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 13.022000312805176
+  },
+  {
+    "date": "2021-07-02",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 433.72,
+    "stock_volume": 57697668,
+    "avg_temperature": 14.56783390045166,
+    "max_temperature": 16.272001266479492,
+    "min_temperature": 13.571999549865723
+  },
+  {
+    "date": "2021-07-03",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.511581420898438,
+    "max_temperature": 16.422000885009766,
+    "min_temperature": 13.371999740600586
+  },
+  {
+    "date": "2021-07-04",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.79908275604248,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 13.772000312805176
+  },
+  {
+    "date": "2021-07-05",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.35949993133545,
+    "max_temperature": 15.92199993133545,
+    "min_temperature": 12.621999740600586
+  },
+  {
+    "date": "2021-07-06",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 432.93,
+    "stock_volume": 68710419,
+    "avg_temperature": 13.732415199279785,
+    "max_temperature": 15.971999168395996,
+    "min_temperature": 12.272000312805176
+  },
+  {
+    "date": "2021-07-07",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 434.46,
+    "stock_volume": 63549456,
+    "avg_temperature": 13.661581993103027,
+    "max_temperature": 16.272001266479492,
+    "min_temperature": 12.272000312805176
+  },
+  {
+    "date": "2021-07-08",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 430.92,
+    "stock_volume": 97595232,
+    "avg_temperature": 13.505332946777344,
+    "max_temperature": 15.071999549865723,
+    "min_temperature": 12.17199993133545
+  },
+  {
+    "date": "2021-07-09",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 435.52,
+    "stock_volume": 76238584,
+    "avg_temperature": 15.055333137512207,
+    "max_temperature": 15.971999168395996,
+    "min_temperature": 13.92199993133545
+  },
+  {
+    "date": "2021-07-10",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.767834663391113,
+    "max_temperature": 16.972000122070312,
+    "min_temperature": 12.772000312805176
+  },
+  {
+    "date": "2021-07-11",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.98449993133545,
+    "max_temperature": 19.07200050354004,
+    "min_temperature": 12.571999549865723
+  },
+  {
+    "date": "2021-07-12",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 437.08,
+    "stock_volume": 52889585,
+    "avg_temperature": 13.576168060302734,
+    "max_temperature": 14.621999740600586,
+    "min_temperature": 11.972000122070312
+  },
+  {
+    "date": "2021-07-13",
+    "state": "CA",
+    "cdc_transmission_level": 1,
+    "stock_close_price": 435.59,
+    "stock_volume": 52911312,
+    "avg_temperature": 13.47408390045166,
+    "max_temperature": 15.621999740600586,
+    "min_temperature": 12.272000312805176
+  },
+  {
+    "date": "2021-07-14",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 436.24,
+    "stock_volume": 64130352,
+    "avg_temperature": 13.711583137512207,
+    "max_temperature": 16.07200050354004,
+    "min_temperature": 12.222000122070312
+  },
+  {
+    "date": "2021-07-15",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 434.75,
+    "stock_volume": 55126358,
+    "avg_temperature": 13.57824993133545,
+    "max_temperature": 14.972000122070312,
+    "min_temperature": 12.522000312805176
+  },
+  {
+    "date": "2021-07-16",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 431.34,
+    "stock_volume": 75874662,
+    "avg_temperature": 13.294917106628418,
+    "max_temperature": 15.522000312805176,
+    "min_temperature": 12.272000312805176
+  },
+  {
+    "date": "2021-07-17",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.115748405456543,
+    "max_temperature": 16.32200050354004,
+    "min_temperature": 12.722000122070312
+  },
+  {
+    "date": "2021-07-18",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.409500122070312,
+    "max_temperature": 16.022001266479492,
+    "min_temperature": 12.871999740600586
+  },
+  {
+    "date": "2021-07-19",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 424.97,
+    "stock_volume": 147987000,
+    "avg_temperature": 14.399083137512207,
+    "max_temperature": 16.172000885009766,
+    "min_temperature": 13.472000122070312
+  },
+  {
+    "date": "2021-07-20",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 431.06,
+    "stock_volume": 99608174,
+    "avg_temperature": 15.313667297363281,
+    "max_temperature": 18.972000122070312,
+    "min_temperature": 13.67199993133545
+  },
+  {
+    "date": "2021-07-21",
+    "state": "CA",
+    "cdc_transmission_level": 2,
+    "stock_close_price": 434.55,
+    "stock_volume": 64724389,
+    "avg_temperature": 15.446998596191406,
+    "max_temperature": 18.722000122070312,
+    "min_temperature": 13.472000122070312
+  },
+  {
+    "date": "2021-07-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 435.46,
+    "stock_volume": 47878539,
+    "avg_temperature": 15.142833709716797,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 13.371999740600586
+  },
+  {
+    "date": "2021-07-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 439.94,
+    "stock_volume": 63766637,
+    "avg_temperature": 14.940749168395996,
+    "max_temperature": 17.82200050354004,
+    "min_temperature": 12.67199993133545
+  },
+  {
+    "date": "2021-07-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.090747833251953,
+    "max_temperature": 15.971999168395996,
+    "min_temperature": 12.17199993133545
+  },
+  {
+    "date": "2021-07-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.076168060302734,
+    "max_temperature": 15.92199993133545,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2021-07-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 441.02,
+    "stock_volume": 43719187,
+    "avg_temperature": 14.721999168395996,
+    "max_temperature": 16.57200050354004,
+    "min_temperature": 13.621999740600586
+  },
+  {
+    "date": "2021-07-27",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 439.01,
+    "stock_volume": 67397137,
+    "avg_temperature": 15.532416343688965,
+    "max_temperature": 18.57200050354004,
+    "min_temperature": 14.071999549865723
+  },
+  {
+    "date": "2021-07-28",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 438.83,
+    "stock_volume": 52472360,
+    "avg_temperature": 14.784499168395996,
+    "max_temperature": 16.12200164794922,
+    "min_temperature": 13.222000122070312
+  },
+  {
+    "date": "2021-07-29",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 440.65,
+    "stock_volume": 45910298,
+    "avg_temperature": 14.717833518981934,
+    "max_temperature": 16.172000885009766,
+    "min_temperature": 13.522000312805176
+  },
+  {
+    "date": "2021-07-30",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 438.51,
+    "stock_volume": 68951202,
+    "avg_temperature": 14.599082946777344,
+    "max_temperature": 16.172000885009766,
+    "min_temperature": 12.722000122070312
+  },
+  {
+    "date": "2021-07-31",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.178250312805176,
+    "max_temperature": 17.32200050354004,
+    "min_temperature": 13.92199993133545
+  },
+  {
+    "date": "2021-08-01",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.976164817810059,
+    "max_temperature": 17.522001266479492,
+    "min_temperature": 14.67199993133545
+  },
+  {
+    "date": "2021-08-02",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 437.59,
+    "stock_volume": 58783297,
+    "avg_temperature": 15.719917297363281,
+    "max_temperature": 17.222000122070312,
+    "min_temperature": 14.321999549865723
+  },
+  {
+    "date": "2021-08-03",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 441.15,
+    "stock_volume": 58053896,
+    "avg_temperature": 14.180333137512207,
+    "max_temperature": 17.37200164794922,
+    "min_temperature": 12.571999549865723
+  },
+  {
+    "date": "2021-08-04",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 438.98,
+    "stock_volume": 46732212,
+    "avg_temperature": 13.878247261047363,
+    "max_temperature": 15.722000122070312,
+    "min_temperature": 12.42199993133545
+  },
+  {
+    "date": "2021-08-05",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 441.76,
+    "stock_volume": 38969659,
+    "avg_temperature": 14.738665580749512,
+    "max_temperature": 17.57200050354004,
+    "min_temperature": 13.472000122070312
+  },
+  {
+    "date": "2021-08-06",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 442.49,
+    "stock_volume": 46930008,
+    "avg_temperature": 16.25116729736328,
+    "max_temperature": 20.272001266479492,
+    "min_temperature": 14.321999549865723
+  },
+  {
+    "date": "2021-08-07",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.89908504486084,
+    "max_temperature": 19.37200164794922,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-08-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.444918632507324,
+    "max_temperature": 17.422000885009766,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-08-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 442.13,
+    "stock_volume": 41222585,
+    "avg_temperature": 15.630335807800293,
+    "max_temperature": 18.57200050354004,
+    "min_temperature": 14.17199993133545
+  },
+  {
+    "date": "2021-08-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 442.68,
+    "stock_volume": 43339275,
+    "avg_temperature": 15.33033275604248,
+    "max_temperature": 17.62200164794922,
+    "min_temperature": 13.92199993133545
+  },
+  {
+    "date": "2021-08-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 443.78,
+    "stock_volume": 44034340,
+    "avg_temperature": 15.669918060302734,
+    "max_temperature": 17.222000122070312,
+    "min_temperature": 14.571999549865723
+  },
+  {
+    "date": "2021-08-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 445.11,
+    "stock_volume": 38942418,
+    "avg_temperature": 15.403250694274902,
+    "max_temperature": 16.37200164794922,
+    "min_temperature": 14.371999740600586
+  },
+  {
+    "date": "2021-08-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 445.92,
+    "stock_volume": 38673164,
+    "avg_temperature": 15.897000312805176,
+    "max_temperature": 17.57200050354004,
+    "min_temperature": 14.621999740600586
+  },
+  {
+    "date": "2021-08-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.93658447265625,
+    "max_temperature": 17.472000122070312,
+    "min_temperature": 14.67199993133545
+  },
+  {
+    "date": "2021-08-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.101165771484375,
+    "max_temperature": 18.62200164794922,
+    "min_temperature": 15.17199993133545
+  },
+  {
+    "date": "2021-08-16",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 446.97,
+    "stock_volume": 73930864,
+    "avg_temperature": 18.036582946777344,
+    "max_temperature": 24.722000122070312,
+    "min_temperature": 15.522000312805176
+  },
+  {
+    "date": "2021-08-17",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 444.04,
+    "stock_volume": 92673933,
+    "avg_temperature": 17.580333709716797,
+    "max_temperature": 21.32200050354004,
+    "min_temperature": 14.821999549865723
+  },
+  {
+    "date": "2021-08-18",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 439.18,
+    "stock_volume": 89351931,
+    "avg_temperature": 17.04283332824707,
+    "max_temperature": 20.87200164794922,
+    "min_temperature": 14.67199993133545
+  },
+  {
+    "date": "2021-08-19",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 439.86,
+    "stock_volume": 92812246,
+    "avg_temperature": 16.478248596191406,
+    "max_temperature": 18.82200050354004,
+    "min_temperature": 14.871999740600586
+  },
+  {
+    "date": "2021-08-20",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 443.36,
+    "stock_volume": 72008712,
+    "avg_temperature": 15.99074935913086,
+    "max_temperature": 18.07200050354004,
+    "min_temperature": 14.871999740600586
+  },
+  {
+    "date": "2021-08-21",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.359500885009766,
+    "max_temperature": 18.022001266479492,
+    "min_temperature": 15.571999549865723
+  },
+  {
+    "date": "2021-08-22",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.365750312805176,
+    "max_temperature": 17.82200050354004,
+    "min_temperature": 13.92199993133545
+  },
+  {
+    "date": "2021-08-23",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 447.26,
+    "stock_volume": 54973038,
+    "avg_temperature": 15.13033390045166,
+    "max_temperature": 16.62200164794922,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-08-24",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 447.97,
+    "stock_volume": 38744714,
+    "avg_temperature": 15.128249168395996,
+    "max_temperature": 17.422000885009766,
+    "min_temperature": 13.722000122070312
+  },
+  {
+    "date": "2021-08-25",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 448.91,
+    "stock_volume": 40529711,
+    "avg_temperature": 14.67408275604248,
+    "max_temperature": 16.37200164794922,
+    "min_temperature": 13.472000122070312
+  },
+  {
+    "date": "2021-08-26",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 446.26,
+    "stock_volume": 57829572,
+    "avg_temperature": 15.401165962219238,
+    "max_temperature": 20.37200164794922,
+    "min_temperature": 13.571999549865723
+  },
+  {
+    "date": "2021-08-27",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 450.25,
+    "stock_volume": 77235113,
+    "avg_temperature": 18.103248596191406,
+    "max_temperature": 22.922000885009766,
+    "min_temperature": 14.121999740600586
+  },
+  {
+    "date": "2021-08-28",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 18.43033218383789,
+    "max_temperature": 23.772001266479492,
+    "min_temperature": 13.722000122070312
+  },
+  {
+    "date": "2021-08-29",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.865751266479492,
+    "max_temperature": 19.82200050354004,
+    "min_temperature": 15.121999740600586
+  },
+  {
+    "date": "2021-08-30",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 452.23,
+    "stock_volume": 48357355,
+    "avg_temperature": 15.74908447265625,
+    "max_temperature": 17.472000122070312,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-08-31",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 451.56,
+    "stock_volume": 59300213,
+    "avg_temperature": 16.744916915893555,
+    "max_temperature": 17.82200050354004,
+    "min_temperature": 15.17199993133545
+  },
+  {
+    "date": "2021-09-01",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 451.8,
+    "stock_volume": 48721378,
+    "avg_temperature": 15.64283275604248,
+    "max_temperature": 17.272001266479492,
+    "min_temperature": 13.972000122070312
+  },
+  {
+    "date": "2021-09-02",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 453.19,
+    "stock_volume": 42830867,
+    "avg_temperature": 15.442832946777344,
+    "max_temperature": 17.972000122070312,
+    "min_temperature": 13.772000312805176
+  },
+  {
+    "date": "2021-09-03",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 453.08,
+    "stock_volume": 47234364,
+    "avg_temperature": 14.880331993103027,
+    "max_temperature": 16.522001266479492,
+    "min_temperature": 13.42199993133545
+  },
+  {
+    "date": "2021-09-04",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 14.032417297363281,
+    "max_temperature": 15.621999740600586,
+    "min_temperature": 12.472000122070312
+  },
+  {
+    "date": "2021-09-05",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.101166725158691,
+    "max_temperature": 16.57200050354004,
+    "min_temperature": 13.321999549865723
+  },
+  {
+    "date": "2021-09-06",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 15.732417106628418,
+    "max_temperature": 18.472000122070312,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-09-07",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 451.46,
+    "stock_volume": 51671534,
+    "avg_temperature": 17.163665771484375,
+    "max_temperature": 21.472000122070312,
+    "min_temperature": 15.371999740600586
+  },
+  {
+    "date": "2021-09-08",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 450.91,
+    "stock_volume": 56181907,
+    "avg_temperature": 19.219919204711914,
+    "max_temperature": 22.022001266479492,
+    "min_temperature": 16.37200164794922
+  },
+  {
+    "date": "2021-09-09",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 448.98,
+    "stock_volume": 57970407,
+    "avg_temperature": 17.399084091186523,
+    "max_temperature": 20.972000122070312,
+    "min_temperature": 15.522000312805176
+  },
+  {
+    "date": "2021-09-10",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 445.44,
+    "stock_volume": 89948174,
+    "avg_temperature": 16.21991539001465,
+    "max_temperature": 17.672000885009766,
+    "min_temperature": 15.022000312805176
+  },
+  {
+    "date": "2021-09-11",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.02825164794922,
+    "max_temperature": 17.57200050354004,
+    "min_temperature": 14.772000312805176
+  },
+  {
+    "date": "2021-09-12",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": null,
+    "stock_volume": null,
+    "avg_temperature": 16.288667678833008,
+    "max_temperature": 18.62200164794922,
+    "min_temperature": 14.321999549865723
+  },
+  {
+    "date": "2021-09-13",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 446.58,
+    "stock_volume": 83738649,
+    "avg_temperature": 17.249082565307617,
+    "max_temperature": 20.37200164794922,
+    "min_temperature": 14.121999740600586
+  },
+  {
+    "date": "2021-09-14",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 444.17,
+    "stock_volume": 78197140,
+    "avg_temperature": 16.1074161529541,
+    "max_temperature": 18.272001266479492,
+    "min_temperature": 13.821999549865723
+  },
+  {
+    "date": "2021-09-15",
+    "state": "CA",
+    "cdc_transmission_level": 3,
+    "stock_close_price": 447.88,
+    "stock_volume": 78792222,
+    "avg_temperature": 14.919917106628418,
+    "max_temperature": 16.772001266479492,
+    "min_temperature": 13.522000312805176
   }
 ]
