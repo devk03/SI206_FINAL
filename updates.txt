@@ -1,0 +1,7 @@
+We updated our code to include 2 more visualizations from the last time we talked.
+
+However, we did not change the database or key stuff that we talked about at the session. 
+
+Hope this helps. 
+
+- ADH-G
